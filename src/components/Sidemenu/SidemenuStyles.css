@@ -1,0 +1,11 @@
+.App-sidemenu {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 10px);
+  width: 80px;
+  padding: 10px 10px 0px 10px;
+  transition: width 0.2s ease-in-out;
+}
+.opened {
+  width: 150px;
+}

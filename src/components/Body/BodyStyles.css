@@ -1,0 +1,6 @@
+.App-page {
+  display: flex;
+  flex: 1;
+  background-color: green;
+  padding-left: 10px;
+}
